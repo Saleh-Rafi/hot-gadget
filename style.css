@@ -1,0 +1,74 @@
+.container{
+    margin-bottom: 50px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom,black,grey);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+   
+}
+.carousel-indicators li{
+    background-color: orange;
+    width: 25px;
+    height: 4px;
+    border-top: 1px solid transparent;
+    border-bottom: 1px solid transparent;
+    border-radius: 5px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px lightgray;
+    border-radius: 10px ;
+    
+}
+#smartphone small, #laptop small{
+    color: crimson;
+}
+#smartphone a,#laptop a{
+    text-decoration: none;
+}
+
+.content-box ul{
+    box-sizing: content-box;
+   background-image: linear-gradient(to right, orange,orangered);
+    width: 70px;
+    height: 7px;
+    marker: none;
+    border-radius: 10px;
+    margin: auto;
+}
+#categories{
+    height: 700px;
+}
+#bag{
+    height: 800px;
+    
+}
+#beauty, #shoe{
+    height: 300px;
+    border-radius: 20px 5px 30px 5px;
+}
+.bag-radius{
+    border-radius: 5px 20px 5px 30px;
+}
+
+#contact {
+    height: 300px;
+    background-color: sandybrown;
+}
+#contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+    color: black;
+}
